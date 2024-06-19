@@ -22,8 +22,8 @@ def findChatID(client, channelName):
 # ___________________________________
 if __name__ == '__main__':
     apiId = '********'
-    apiHash = '******************************'
-    phoneNumber = '**********' # with country code
+    apiHash = 'e7f5969accf95bd9dea772e56e495bce'
+    phoneNumber = '+919344004938' # with country code
 
     # List of group links and names to forward the message ot them (must be already joined)
     # For public groups: put the link of the group (e.g.: "https://t.me/test")
