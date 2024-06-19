@@ -41,7 +41,7 @@ if __name__ == '__main__':
         client.send_code_request(phoneNumber)
         client.sign_in(phoneNumber, input('Enter the code: '))
 
-    channelOfAdsID = BGMI DDOS PRIVATE SERVER(client, channelOfAds)
+    channelOfAdsID = 'BGMI DDOS PRIVATE SERVER' (client, channelOfAds)
     startTime = time() - 1e6  # To start in the first time
     #Sending Messages
     while True:
